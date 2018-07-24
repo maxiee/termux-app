@@ -35,6 +35,7 @@ local.properties
 .idea/dictionaries/
 .idea/caches/
 .idea/codeStyles/
+.idea/
 *.iml
 
 # OS-specific files
